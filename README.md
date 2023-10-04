@@ -1,3 +1,5 @@
+# Data Structures and Algorithms Notes
+Unsorted. Clean up presentation later.
 # Arrays
 
 ### Print function to display array elements
