@@ -1,14 +1,6 @@
 # Data Structures and Algorithms Notes
 Unsorted. Clean up presentation later.
 
-<style>
-img {
-  width: auto;
-  height: 300px;
-}
-</style>
-
-
 ## Arrays
 ### Print function to display array elements
 ```cpp
@@ -153,7 +145,7 @@ Used if: \
 
 ### Insertion Sort
 
-<img src="https://cdn.discordapp.com/attachments/1036803415155679252/1160988051594543184/image.png" alt="Insertion Sort">
+<img src="https://cdn.discordapp.com/attachments/1036803415155679252/1160988051594543184/image.png" alt="Insertion Sort" style="width: auto; height: 300px;">
 
 ```cpp
 void insertionSort(int arr[], int arrSize) {
@@ -177,7 +169,7 @@ The insertion sort is used when: \
 
 ### Selection Sort
 
-<img src="https://media.discordapp.net/attachments/1036803415155679252/1160995785362636800/image.png" alt="Selection Sort">
+<img src="https://media.discordapp.net/attachments/1036803415155679252/1160995785362636800/image.png" alt="Selection Sort" style="width: auto; height: 300px;">
 
 
 ```cpp
